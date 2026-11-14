@@ -10,15 +10,15 @@
 Every client engagement delivers an executive **Before & After Data Governance Scorecard**, an **import-ready clean workbook**, and a **quarantined discrepancy review sheet**—backed by SHA-256 chain-of-custody verification.
 
 ### 1. Executive Before & After Scope Scorecard
-![Before & After Data Governance Scorecard](screenshots/Before%20%26%20After%20Data%20Governance%20Scorecard.jpg)
+![Before & After Data Governance Scorecard](screenshots/Before%20%26%20After%20Data%20Governance%20Scorecard.png)
 
 ### 2. Side-by-Side Deliverable Comparison
 
 | Stage | Artifact | What It Proves |
 | :--- | :--- | :--- |
-| **Intake (Raw Client File)** | ![Sample Data Received](screenshots/sample%20data%20received.jpg) | Untouched client source file sealed in `01_Original_Client_Data` with **SHA-256** cryptographic hashing before any rule runs. |
-| **Verified Clean Output** | ![Clean Data Deliverable](screenshots/Clean%20Data.jpg) | Schema-agnostic normalization of names, emails, phones, and ISO-8601 dates—ready for immediate CRM, POS, or ERP import. |
-| **Quarantined Audit Trail** | ![Dirty Data Review](screenshots/Dirty%20Data.jpg) | Exact/fuzzy duplicates, math mismatches (`Qty × Price ≠ Total`), blank prices, and formula-injection payloads isolated with plain-English explanations. |
+| **Intake (Raw Client File)** | ![Sample Data Received](screenshots/sample%20data%20received.png) | Untouched client source file sealed in `01_Original_Client_Data` with **SHA-256** cryptographic hashing before any rule runs. |
+| **Verified Clean Output** | ![Clean Data Deliverable](screenshots/Clean%20Data.png) | Schema-agnostic normalization of names, emails, phones, and ISO-8601 dates—ready for immediate CRM, POS, or ERP import. |
+| **Quarantined Audit Trail** | ![Dirty Data Review](screenshots/Dirty%20Data.png) | Exact/fuzzy duplicates, math mismatches (`Qty × Price ≠ Total`), blank prices, and formula-injection payloads isolated with plain-English explanations. |
 
 ---
 
